@@ -1,0 +1,69 @@
+.main-title {
+    color: orange;
+    background-color: brown;
+    font-size:40px;
+}
+
+.turkey-button,
+.cranberry-button,
+.pumpkin-button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.turkey-button {
+    background-color: burlywood;
+    color:brown;
+}
+
+.cranberry-button {
+    background-color: cadetblue;
+    color:crimson;
+}
+
+.pumpkin-button {
+    background-color: darkkhaki;
+    color:orange;
+}
+
+.title {
+    color:cornflowerblue;
+    background-color: darkkhaki;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.image {
+    width: 200px;
+    height: auto; 
+}
+
+.description {
+    color: red;
+    background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.description.text {
+    font-family: cursive;
+}
+
+.ingredients {
+    color: darkorchid;
+    background-color: darkturquoise;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ingredients.text {
+    font-style: italic;
+}
+
+.steps {
+    color:dodgerblue;
+    background-color: greenyellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.steps.text {
+    font-style: oblique;
+}
+
